@@ -14,7 +14,7 @@ coffee beans, 9 disposable cups, $550 in cash.
 - And for a cappuccino, the coffee machine needs 200 ml of water, 100 ml of milk, and 12 g of coffee. It costs $6.
 
  
-####Example 1:
+**Example 1:**
 
 Write action (buy, fill, take, remaining, exit):
 > remaining
